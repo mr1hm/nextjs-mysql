@@ -21,7 +21,7 @@
   "homepage": "https://github.com/mr1hm/nextjs-mysql#readme",
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
-    "next": "^9.2.2",
+    "next": "^11.1.3",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "serverless-mysql": "^1.5.3",
